@@ -1,0 +1,7 @@
+accelerator:
+  displayName: test
+  description: test
+
+engine:
+  merge:
+    - include: [ "**" ]
