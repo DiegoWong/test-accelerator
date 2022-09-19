@@ -1,7 +1,7 @@
 accelerator:
   displayName: test
   description: test
-
+  iconUrl: https://i.ibb.co/tbbb4Ct/Png-Item-2113980.png
 engine:
   merge:
     - include: [ "**" ]
